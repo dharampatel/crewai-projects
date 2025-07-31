@@ -1,0 +1,6 @@
+streamlit
+crewai
+langchain
+langchain_google_genai
+langchain_community
+crewai_tools

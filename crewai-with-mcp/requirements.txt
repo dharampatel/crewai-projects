@@ -1,0 +1,11 @@
+fastmcp
+mcp
+httpx
+langchain
+langchain_community
+langchain-google-genai
+uvicorn
+crewai
+crewai-tools[mcp]
+streamlit
+langchain_core
